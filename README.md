@@ -30,7 +30,7 @@ This project analyzes a dataset of forest fires to understand the factors influe
 
 - **Univariate Analysis:** Distributions of individual features were examined using histograms and descriptive statistics for numerical features and countplots for categorical features.
 - **Bivariate Analysis:** Relationships between pairs of features were explored using scatter plots for numerical features and box plots for categorical vs. numerical features.
-- **Multivariate Analysis:** Correlations between multiple numerical features were analyzed using a correlation matrix and visualized with a heatmap.
+- **Multivariate Analysis:** Correlations between multiple numerical features were analyzed using a correlation matrix of pearson coefficient and visualized with a heatmap.
 
 ## Feature Engineering and Selection
 
